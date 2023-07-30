@@ -92,13 +92,3 @@
     </div>
   </blockquote>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<p align="left">  
-  Code released under the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>. Docs released under <a href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
-</p>
